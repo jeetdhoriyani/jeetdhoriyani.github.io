@@ -1,8 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jeetjd/jeetjd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jeet Dhoriyani
 I am second year MS research student at Cornell University. I am currently working on Quantum computing and its practical use cases in real life problems. I am majorly interested in developing Quantum-Classical algorithms for large scale problems.
